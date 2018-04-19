@@ -10,18 +10,18 @@ comments: false
 
 ## Landing Page
 When you first open up the application, you will see the landing page which invites users to join ʻŌlelo International. The user may sign in or sign up by clicking on the 'Login' icon at the top right corner of the page.
-<img src="doc/olelo-landing-1.png">
+<img src="/assets/img/olelo-landing-1.png">
 
 ## Register
 If the user doesn't yet have an account, they can register with their UH System username and password.
 
 ## Sign In
 Site will require users to sign up with a hawaii.edu email. If any other email is used, site will generate an error.
-<img src="doc/Login.JPG">
+<img src="/assets/img/Login.JPG">
       
 ## User Home Page
 When the user logs in, they will see a page similar to the landing page but has a link to the Langauge Forums in the NavBar. 
-<img src="doc/olelo-homepage-1.png">
+<img src="/assets/img/olelo-homepage-1.png">
 
 ## Language Forums Page
 Originally we decided that we would create a dropdown for "Language Forums" where the user would be able to select the specific langauge forum that they are taking corresponding courses in. However, since UH Manoa offers many language courses, the dropdown would likely be very lengthy and look messy. So instead we decided to have a Lanuage Forums page that contains links to each of the language forums.
@@ -29,4 +29,4 @@ Originally we decided that we would create a dropdown for "Language Forums" wher
 ## Language Pages
 Separate pages for each language, will start with a couple sample pages (i.e. Japanese, Korean).
 Pages will be forum style. Users can make a post (i.e. asking if someone wants to meet up). Other users can comment on that post.
-<img src="doc/LanguagePage.JPG">
+<img src="/assets/img/LanguagePage.JPG">
