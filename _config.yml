@@ -61,7 +61,7 @@ github-url: olelo-international/Final-Project-App
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-meteor: http://olelointernational.meteorapp.com/#/
+meteorapp: http://olelointernational.meteorapp.com/#/
 
 # Gems
 gems:
