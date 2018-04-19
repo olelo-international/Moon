@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Site Walkthrough
+tags: [walkthrough, meteor, galaxy, olelo]
+date: 2018-04-18
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://olelointernational.meteorapp.com/#/"><b>ʻŌlelo International</b></a> is a networking app for University of Hawai'i at Manoa students taking language courses.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Landing Page
+When you first open up the application, you will see the landing page which invites users to join ʻŌlelo International. The user may sign in or sign up by clicking on the 'Login' icon at the top right corner of the page.
+<img src="doc/olelo-landing-1.png">
 
-## Preview
+## Register
+If the user doesn't yet have an account, they can register with their UH System username and password.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Sign In
+Site will require users to sign up with a hawaii.edu email. If any other email is used, site will generate an error.
+<img src="doc/Login.JPG">
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## User Home Page
+When the user logs in, they will see a page similar to the landing page but has a link to the Langauge Forums in the NavBar. 
+<img src="doc/olelo-homepage-1.png">
+
+## Language Forums Page
+Originally we decided that we would create a dropdown for "Language Forums" where the user would be able to select the specific langauge forum that they are taking corresponding courses in. However, since UH Manoa offers many language courses, the dropdown would likely be very lengthy and look messy. So instead we decided to have a Lanuage Forums page that contains links to each of the language forums.
+
+## Language Pages
+Separate pages for each language, will start with a couple sample pages (i.e. Japanese, Korean).
+Pages will be forum style. Users can make a post (i.e. asking if someone wants to meet up). Other users can comment on that post.
+<img src="doc/LanguagePage.JPG">
