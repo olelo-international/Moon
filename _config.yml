@@ -40,7 +40,6 @@ sass:
 #email:
 #twitter:            username
 #facebook:           username
-github-url: olelo-international/Final-Project-App
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -63,6 +62,7 @@ github-url: olelo-international/Final-Project-App
 #hackernews:        username
 meteorapp: http://olelointernational.meteorapp.com/#/
 gitproj: https://github.com/olelo-international/Final-Project-App/projects/2
+github-url: olelo-international/Final-Project-App
 
 # Gems
 gems:
