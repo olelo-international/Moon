@@ -17,7 +17,7 @@ If the user doesn't yet have an account, they can register with their UH System 
 
 ## Sign In
 Site will require users to sign up with a hawaii.edu email. If any other email is used, site will generate an error.
-<img src="/assets/img/Login.JPG">
+<img src="/assets/img/LogIn.png">
       
 ## User Home Page
 When the user logs in, they will see a page similar to the landing page but has a link to the Langauge Forums in the NavBar. 
