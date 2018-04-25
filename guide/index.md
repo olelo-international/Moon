@@ -8,7 +8,7 @@ comments: false
     
 <h2>Installation</h2>
 
-First, **install Meteor**.
+First, **install [Meteor](https://www.meteor.com/install)**.
 
 Second, **download a copy of ʻŌlelo International**.
 
