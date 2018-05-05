@@ -13,7 +13,8 @@ When you first open up the application, you will see the landing page which invi
 <img src="/assets/img/olelo-landing-1.png">
 
 ## Register
-If the user doesn't yet have an account, they can register with their UH System username and password.
+If the user doesn't yet have an account, they can register with their UH System username and password, along with some information about the language course they're taking, if they're a student or faculty memeber, etc.
+<img src="/assets/img/Register.png">
 
 ## Sign In
 Site will require users to sign up with a hawaii.edu email. If any other email is used, site will generate an error.
@@ -28,6 +29,13 @@ Originally we decided that we would create a dropdown for "Language Forums" wher
 <img src="/assets/img/LanguageForums.png">
 
 ## Language Pages
-Separate pages for each language, will start with a couple sample pages (i.e. Japanese, Korean).
-Pages will be forum style. Users can make a post (i.e. asking if someone wants to meet up). Other users can comment on that post.
-<img src="/assets/img/ArabicForum.png">
+Separate pages for each language (i.e. Japanese, Korean). Pages will be forum style. Posts are sorted from newest (left) to oldest (right).
+<img src="/assets/img/Forums.png">
+
+Users can make a post (i.e. asking if someone wants to meet up). Other users can comment on that post. 
+<img src="/assets/img/NewPost.png">
+
+The user will get a notification if their post was added successfully.
+<img src="/assets/img/SuccessfullAdd.png">
+
+
